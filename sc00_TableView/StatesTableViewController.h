@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  StatesTableViewController.h
 //  sc00_TableView
 //
 //  Created by user on 11/1/17.
@@ -8,8 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface StatesTableViewController : UITableViewController
 
 
 @end
-
